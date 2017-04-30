@@ -1,6 +1,7 @@
 # String Ring Buffer
 
 [![License](https://img.shields.io/badge/license-BSD%203--Clause-green.svg)](https://raw.githubusercontent.com/fotisl/strringbuffer/master/LICENSE)
+[![Build Status](https://travis-ci.org/fotisl/strringbuffer.svg?branch=master)](https://travis-ci.org/fotisl/strringbuffer)
 
 An arduino library implementing a ring buffer especially designed for strings.
 
