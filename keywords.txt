@@ -6,23 +6,23 @@
 # Datatypes (KEYWORD1)
 ####################################
 
-StrRingBuffer               KEYWORD1
+StrRingBuffer	KEYWORD1
 
 ####################################
 # Methods and Functions (KEYWORD2)
 ####################################
 
-reset                       KEYWORD2
-buflen                      KEYWORD2
-strlen                      KEYWORD2
-push                        KEYWORD2
-pop                         KEYWORD2
-peek                        KEYWORD2
-getstr                      KEYWORD2
-getnstr                     KEYWORD2
-pushstr                     KEYWORD2
-pushnstr                    KEYWORD2
-strcmp                      KEYWORD2
-strncmp                     KEYWORD2
-endswith                    KEYWORD2
-endsnwith                   KEYWORD2
+reset	KEYWORD2
+buflen	KEYWORD2
+strlen	KEYWORD2
+push	KEYWORD2
+pop	KEYWORD2
+peek	KEYWORD2
+getstr	KEYWORD2
+getnstr	KEYWORD2
+pushstr	KEYWORD2
+pushnstr	KEYWORD2
+strcmp	KEYWORD2
+strncmp	KEYWORD2
+endswith	KEYWORD2
+endsnwith	KEYWORD2
